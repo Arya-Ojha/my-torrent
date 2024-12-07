@@ -1,0 +1,15 @@
+{
+  "name": "BitHub",
+  "version": "1.0.0",
+  "description": "A bittorrent client for education purposes!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arya Ojha",
+  "license": "ISC",
+  "dependencies": {
+    "bencode": "^4.0.0",
+    "bignumber.js": "^9.1.2"
+  }
+}
